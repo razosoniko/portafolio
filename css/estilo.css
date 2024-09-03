@@ -1,0 +1,30 @@
+.carousel {
+    max-width: 1000px; /* Establece el ancho máximo del carrusel */
+    margin: 0 auto; /* Centra el carrusel en la página */
+	margin-bottom: 200px
+}
+
+.carousel-inner .carousel-item img {
+    width: 100%; /* La imagen ocupa el 100% del ancho del contenedor del carrusel */
+    height: auto; /* Mantiene la proporción original de la imagen */
+}
+
+.navbar {
+    font-size: 24px; /* Cambia el valor según lo que necesites */
+}
+
+.navbar-custom {
+    background-color: #B6303D; /* Reemplaza con el color hexadecimal que desees */
+}
+
+.text-outline {
+    text-shadow: 
+        -1px -1px 0 #000,  
+         1px -1px 0 #000,
+        -1px  1px 0 #000,
+         1px  1px 0 #000; /* Crea un borde negro alrededor del texto */
+}
+
+.custom-margin {
+  margin-left: 120px; /* Ajusta el valor según lo necesario */
+}
